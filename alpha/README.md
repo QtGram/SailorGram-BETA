@@ -1,4 +1,4 @@
-Alpha 2 (05/11/16)
+Alpha 3 (05/11/16)
 - Enabled notifications
 - It's now possible to edit messages
 - It's now possible reply to messages
