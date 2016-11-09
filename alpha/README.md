@@ -1,3 +1,13 @@
+Alpha 4 (09/11/16)
+- Implemented two factor authentication
+- Restored long press menu for messages
+- Fixed some connection issues
+- Improved client's stability
+- Updated LibQTelegram to upstream
+- Heavy bugfix
+- KNOWN ISSUE: Channels are not sorted according to its latest message
+- KNOWN ISSUE: Unread message counter is unreliable
+
 Alpha 3 (05/11/16)
 - Enabled notifications
 - It's now possible to edit messages
