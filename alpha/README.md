@@ -1,3 +1,14 @@
+Alpha 5 (13/11/16)
+- Implemented audio messages' UI and playback
+- Images can be downloaded
+- Improved unread messages counter (still a bit unreliable, needs testing)
+- Implemented Cloud Chat
+- Fixed "clear history" function
+- Chats can be deleted
+- Heavy bugfix
+- KNOWN ISSUE: Channels are not sorted according to its latest message
+- KNOWN ISSUE: Unread message counter is unreliable
+
 Alpha 4 (09/11/16)
 - Implemented two factor authentication
 - Restored long press menu for messages
