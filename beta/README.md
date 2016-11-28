@@ -1,3 +1,19 @@
+Beta 4 (28/11/16)
+- User/Chat's image is now updated, if it is changed
+- Implemented all reply message's types (excluding games)
+- Improved message preview
+- Added popups for images, files, locations and clicked URLs
+- Added "Save to downloads" for images
+- WebPage's thumbnails now respect "autodownload" setting
+- BUGFIX: Display correct icon for audio messages
+- BUGFIX: Crash when a chat is deleted
+- BUGFIX: Audio messages spectrum not visible
+- BUGFIX: Client's UI metrics
+- BUGFIX: Bulk file transfer now works again
+- BUGFIX: Occasional crash during file transfer
+- KNOWN ISSUE: Unread counter might be unreliable for supergrops/channels
+- NOTE: Supergroups are WIP so expect crashes or undefined behaviors (use only basic features)
+
 Beta 3 (26/11/16)
 - Implemented message forwarding
 - Implemented message selection
